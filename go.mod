@@ -1,4 +1,4 @@
-module shuttle-extensions-template
+module shuttle-sum
 
 go 1.21.6
 

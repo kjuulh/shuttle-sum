@@ -1,2 +1,2 @@
-# shuttle-extensions-template
+# shuttle-sum
 Contains a template for shuttle extensions

@@ -1,8 +1,8 @@
-name: shuttle-extensions-template
+name: shuttle-sum
 description: Enhances your experience with shuttle.
 provider: 
   github-release:
     owner: kjuulh
-    repo: shuttle-extensions-template
+    repo: shuttle-sum
 registry:
   github: kjuulh/shuttle-extensions
