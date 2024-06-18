@@ -10,7 +10,7 @@ func main() {
 	cmd := cobra.Command{
 		Use: "shuttle-sum",
 		RunE: func(cmd *cobra.Command, args []string) error {
-			log.Println("Hello, shuttle-sum")
+			log.Println(2 + 2) // but you get the point
 
 			return nil
 		},
