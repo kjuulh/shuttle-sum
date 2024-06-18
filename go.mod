@@ -1,6 +1,8 @@
 module shuttle-sum
 
-go 1.21.6
+go 1.21.7
+
+toolchain go1.22.4
 
 require github.com/spf13/cobra v1.8.0
 

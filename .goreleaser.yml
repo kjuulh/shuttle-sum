@@ -1,3 +1,5 @@
+version: 2
+
 builds:
   - env:
       - CGO_ENABLED=0
@@ -22,6 +24,3 @@ snapshot:
 
 release:
   name_template: "v{{.Version}}"
-
-changelog:
-  skip: true
